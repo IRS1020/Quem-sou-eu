@@ -108,7 +108,7 @@
     max-width: 90%;
 }
 
-#Tabela td {
+#Tabela, td {
     padding: 10px;
     border: 1px solid gray;
 }
