@@ -19,6 +19,13 @@
     font-size: 30px;
 }
 
+#textocentro {
+    text-align: center;
+    margin: 0;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
 .Divfotoimagem {
     display: flex;
     flex-direction: row;
@@ -27,13 +34,6 @@
     margin: 30px auto;
     max-width: 1400px;
     padding: 0 15px;
-}
-
-#textocentro {
-    text-align: center;
-    margin: 0;
-    font-size: 30px;
-    font-family: sans-serif;
 }
 
 #Caixadotexto {
@@ -154,7 +154,7 @@ footer {
     }
 
     .card {
-        width: 100% !important;
+        width: 100%;
         max-width: 300px;
     }
 }
